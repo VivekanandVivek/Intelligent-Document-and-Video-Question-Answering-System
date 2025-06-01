@@ -1,0 +1,42 @@
+Timestamp,Source_Type,Source_Name,Question,Answer
+2025-05-25 16:45:08,youtube,Unknown (https://www.youtube.com/watch?v=O9v10jQkm5c),Which type of data structures has been discussed,"The data structures discussed in the video include sets, heaps, hashmaps, arrays, and binary search trees."
+2025-05-27 11:47:48,url,https://en.wikipedia.org/wiki/GPT,What is gpt,"GPT may refer to several things, including:
+
+1. **Computing**:
+   - Generative pre-trained transformer, a type of artificial intelligence language model.
+   - ChatGPT, a chatbot developed by OpenAI, based on generative pre-trained transformer technology.
+   - GUID Partition Table, a computer storage disk partitioning standard.
+
+2. **Biology**:
+   - Alanine transaminase or glutamate pyruvate transaminase.
+   - Goniopora toxin.
+   - UDP-N-acetylglucosamine—undecaprenyl-phosphate N-acetylglucosaminephosphotransferase.
+
+3. **Companies**:
+   - GEC Plessey Telecommunications, a defunct British telecommunications manufacturer.
+   - GPT Group, an Australian property investment company.
+   - GPT, a subsidiary of Airbus SE.
+
+4. **Other uses**:
+   - Gulfport–Biloxi International Airport, in Mississippi.
+   - General-purpose technology, in economics.
+   - Generalized probabilistic theory, a framework to describe the features of physical theories.
+   - Grounded practical theory, a social science theory.
+   - ""GPT"", a song on the album ...l, by Korean girl group STAYC."
+2025-05-27 11:48:14,url,https://en.wikipedia.org/wiki/GPT,Can you tell me the architecture of gpt,I don't have enough information to answer that question.
+2025-05-27 11:48:26,url,https://en.wikipedia.org/wiki/GPT,Can you tell me the architecture of gpt,I don't have enough information to answer that question.
+2025-05-27 11:49:29,url,https://en.wikipedia.org/wiki/Generative_pre-trained_transformer,Can you tell me the architecture of gpt,"The architecture of GPT models is based on a Transformer decoder. Specifically, GPT-1 uses a 12-level, 12-headed Transformer decoder followed by a linear-softmax layer. Subsequent models, like GPT-2 and GPT-3, build upon this architecture with modifications for scaling and normalization."
+2025-05-27 11:50:00,url,https://en.wikipedia.org/wiki/Generative_pre-trained_transformer,self attention layer,I don't have enough information to answer that question.
+2025-05-27 11:51:45,pdf,VivekProjectReport (1).pdf,What is c-zentrix,"C-Zentrix is a company that specializes in customer engagement solutions, particularly in the call center technology sector. It is known for its innovative single-box solution, which is the world's only one-box customer engagement solution capable of supporting over 150 concurrent agents. C-Zentrix focuses on addressing real business needs through world-class designs and implementation, ensuring that its solutions deliver tangible value to customers. The company serves a diverse range of industries, including Business Process Outsourcing (BPO), banking, insurance, e-commerce, manufacturing, education, healthcare, and travel."
+2025-05-27 11:52:13,pdf,VivekProjectReport (1).pdf,What are the services provided by the c-zentrix,I don't have enough information to answer that question.
+2025-05-27 11:52:25,pdf,VivekProjectReport (1).pdf,services provided by the c-zentrix,I don't have enough information to answer that question.
+2025-05-27 11:52:42,pdf,VivekProjectReport (1).pdf,What does c-zentrix,I don't have enough information to answer that question.
+2025-05-27 11:53:02,pdf,VivekProjectReport (1).pdf,RAG,"RAG (Retrieval-Augmented Generation) is a framework used in natural language processing (NLP) that combines two powerful approaches: retrieval and generation. 
+
+1. **Retrieval**: This involves fetching relevant documents or information from a large external knowledge base, such as Wikipedia or a custom database.
+2. **Generation**: This uses a language model (like GPT) to generate responses based on the retrieved information.
+
+The RAG system works by first analyzing the user input (question or prompt) and then automatically retrieving relevant documents or information from a connected knowledge base using its retrieval component. For generating meaningful and contextually accurate answers, advanced large language models (LLMs) like Google Gemini and OpenAI’s GPT-4 are utilized."
+2025-05-27 16:10:57,pdf,VivekProjectReport (1).pdf,What is czentrix,"C-Zentrix is a company that specializes in creating next-generation, simplified call center technology solutions. Its flagship offering is a unique single-box customer engagement solution capable of supporting over 150 concurrent agents. The company focuses on providing a comprehensive ecosystem of software applications and services aimed at addressing real business needs through innovative designs and implementation. C-Zentrix has positioned itself as a market leader in India and is experiencing rapid growth across five continents, particularly in emerging markets."
+2025-05-28 09:21:08,youtube,Unknown (https://youtu.be/GvezxUdLrEk?si=palAtYT7PWm9jGmc),What is sequence modeling and why is it important in AI?,"Sequence modeling is a technique in AI that involves processing sequences of inputs to produce outputs, which can be either classification labels or sequential outputs. It is important because it allows models to track dependencies within the data, which is crucial for tasks such as language modeling, where the meaning of a sequence can change based on the order of its elements. This capability enables a wide range of applications, from sentiment analysis to generating text from images, and is essential for handling the variability and complexity of sequential data found in real-world scenarios, such as audio, text, medical signals, and more. Sequence modeling unlocks significant potential for deep learning applications by enabling models to understand and reason about the order and dependencies in data."
+2025-05-28 09:21:30,youtube,Unknown (https://youtu.be/GvezxUdLrEk?si=palAtYT7PWm9jGmc),How does predicting a ball’s future position illustrate sequence modeling?,"Predicting a ball’s future position illustrates sequence modeling by demonstrating how prior information about the ball's history, such as its previous locations, can significantly improve the accuracy of predictions. Without any historical data, any guess about the ball's next position would be random. However, by considering the ball's past movements, the task of predicting its next position becomes easier, as one can identify patterns or trends in its motion. This example highlights the importance of understanding sequences and dependencies in data, which is a core aspect of sequence modeling."

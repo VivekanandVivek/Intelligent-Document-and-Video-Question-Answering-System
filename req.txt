@@ -1,0 +1,16 @@
+# requirements.txt
+pandas
+streamlit
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-community
+faiss-cpu  # or faiss-gpu if GPU support is intended and set up
+youtube-transcript-api
+youtubesearchpython
+# docx2txt # If you decide to use it
+pypdf2     # For PyPDF2 PdfReader
+# tiktoken # Often a dependency for Langchain/OpenAI for token counting
+# unstructured # For UnstructuredURLLoader
+# Other potential dependencies that might be pulled in by the above
